@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2rawReJuAuuoIcWTGab91Hlct1cnld1RItqYETC1eb2tpnhzyS1sKP0Kxoq7LUEJ+ppx52Hd2AG5JAsDA8kbog==",
+  "success": true,
+  "projectFilePath": "D:\\_PROJECT\\_MEDIUM\\SapHanaNet5\\SapHanaNet5\\SapHanaNet5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Suhut\\.nuget\\packages\\dapper\\2.0.90\\dapper.2.0.90.nupkg.sha512"
+  ],
+  "logs": []
+}
